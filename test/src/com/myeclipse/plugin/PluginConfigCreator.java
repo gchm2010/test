@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * MyEclipse 7.5 (2009-12-1) 插件配置代码生成器
+ * MyEclipse 7.5+ (2009-12-1) 插件配置代码生成器
  * 
  * 
  */
