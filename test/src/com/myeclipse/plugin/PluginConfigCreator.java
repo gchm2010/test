@@ -84,7 +84,7 @@ public class PluginConfigCreator {
 
 	public static void main(String[] args) {
 		/* 你的插件的安装目录 */
-		String plugin = "E:\\dev_tools\\JAVA\\MyEclipse\\MyEclipse 10\\MyPlugins\\egit-2.3.1";
+		String plugin = "E:\\dev_tools\\JAVA\\MyEclipse\\MyEclipse 10\\MyPlugins\\MyBatis_Generator_1.3.1";
 		new PluginConfigCreator().print(plugin);
 	}
 }
