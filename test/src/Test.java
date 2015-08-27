@@ -17,7 +17,7 @@ public class Test {
 		System.out.println(signPosition("82972080501533"));
 	}
 	 /**
-     * Éú³É½ÏÑéÎ»
+     * ï¿½ï¿½É½ï¿½ï¿½ï¿½Î»
      * @param num
      * @return
      */
@@ -26,7 +26,7 @@ public class Test {
     	Matcher matcher =pattern.matcher(num);
     	boolean bool = matcher.matches();
     	if(!bool)
-    		 throw new IllegalArgumentException("´«ÈëµÄ²ÎÊý²»ÕýÈ·");
+    		 throw new IllegalArgumentException("ï¿½ï¿½ï¿½ï¿½Ä²ï¿½ï¿½ï¿½ï¿½ï¿½È·");
     	char[] digital =num.toCharArray();
     	int count=0;
     	for(int i=0;i<digital.length;i++){
