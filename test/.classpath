@@ -6,5 +6,6 @@
 	<classpathentry kind="lib" path="F:/DATA/Tencent/QQ/HIS/1448827548/FileRecv/httpclient-4.3.1/httpclient-cache-4.3.1.jar"/>
 	<classpathentry kind="lib" path="F:/DATA/Tencent/QQ/HIS/1448827548/FileRecv/httpclient-4.3.1/httpcore-4.3.jar"/>
 	<classpathentry kind="lib" path="F:/DATA/Tencent/QQ/HIS/1448827548/FileRecv/httpclient-4.3.1/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="llib/json-org.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
